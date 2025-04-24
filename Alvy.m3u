@@ -1,47 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTM3U
-#EXTINF:-1,Jamuna TV
-http://lkn1.chowdhury-shaheb.com/jamuna/index.m3u8
-#EXTINF:-1,DBC News
-http://lkn1.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1,T-Sport
-http://lkn1.chowdhury-shaheb.com/tsport/index.m3u8
-#EXTINF:-1,Gazi TV
-http://lkn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1,Super Laliga
-http://lkn1.chowdhury-shaheb.com/superlaliga/index.m3u8
-#EXTINF:-1,Super Football
-http://lkn1.chowdhury-shaheb.com/superfootball/index.m3u8
-#EXTINF:-1,Star Sports 1
-http://lkn1.chowdhury-shaheb.com/starsport1/index.m3u8
-#EXTINF:-1,Star Sports 2
-http://lkn1.chowdhury-shaheb.com/starsport2/index.m3u8
-#EXTINF:-1,Sony Ten 1
-http://lkn1.chowdhury-shaheb.com/sonyten1/index.m3u8
-#EXTINF:-1,Sony Ten 3
-http://lkn1.chowdhury-shaheb.com/sonyten3/index.m3u8
-#EXTINF:-1,Sports 18
-http://lkn1.chowdhury-shaheb.com/sports18/index.m3u8
-#EXTINF:-1,Ekattor TV
-http://lkn1.chowdhury-shaheb.com/ekattor/index.m3u8
-#EXTINF:-1,Deepto TV
-http://lkn1.chowdhury-shaheb.com/deeptotv/index.m3u8
-#EXTINF:-1,Somoy TV
-http://lkn1.chowdhury-shaheb.com/somoy/index.m3u8
-#EXTINF:-1,Star Jalsha
-http://lkn1.chowdhury-shaheb.com/starjalsha/index.m3u8
-#EXTINF:-1,Zee Bangla
-http://lkn1.chowdhury-shaheb.com/zeebangla/index.m3u8
-#EXTINF:-1,Sony Aath
-http://lkn1.chowdhury-shaheb.com/sonyatt/index.m3u8
-#EXTINF:-1,Nick
-http://lkn1.chowdhury-shaheb.com/nick/index.m3u8
-#EXTINF:-1,Pogo
-http://lkn1.chowdhury-shaheb.com/pogo/index.m3u8
-#EXTINF:-1,Saudi Quran (Hajj TV)
-http://lkn1.chowdhury-shaheb.com/hajjtv/index.m3u8
 #EXTINF:-1,MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 #EXTINF:-1,Channel 9
