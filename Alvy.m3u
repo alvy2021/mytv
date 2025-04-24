@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1,Colors Bangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+#EXTINF:-1,Colors TV HD (1)
+http://watchindia.net:8880/live/92046/66518/801.ts
 #EXTINF:-1,PTV news
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1,92 news
@@ -23,8 +27,6 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1,BEIN sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1,Colors Bangla
-http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1,Zing
 http://38.96.178.201/live/Zing/index.m3u8
 #EXTINF:-1,Akash AATH
@@ -198,8 +200,7 @@ http://watchindia.net:8880/live/92046/66518/288.ts
 http://watchindia.net:8880/live/92046/66518/1290.ts
 #EXTINF:-1,Dhoomam (2023)
 http://watchindia.net:8880/movie/92046/66518/2535.mkv
-#EXTINF:-1,Colors TV HD (1)
-http://watchindia.net:8880/live/92046/66518/801.ts
+
 #EXTINF:-1,Colors TV HD (2)
 http://watchindia.net:8880/live/92046/66518/2264.ts
 #EXTINF:-1,Colors TV HD UK
