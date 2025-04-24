@@ -23,7 +23,7 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1,PTV sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1,BEIN sports  2
+#EXTINF:-1,BEIN sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1,BEIN sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
@@ -31,3 +31,23 @@ http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1,Zing
 http://38.96.178.201/live/Zing/index.m3u8
+#EXTINF:-1,Akash AATH
+http://38.96.178.201/live/AkashAath/index.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+#EXTINF:-1,Jalsha Movies HD
+http://38.96.178.201/live/JalshaMovies/index.m3u8
+#EXTINF:-1,Sangeet Bangla
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+#EXTINF:-1,Sony AATH
+http://38.96.178.201/live/SonyAath/index.m3u8
+#EXTINF:-1,Channel 9
+http://38.96.178.201/live/Channel9/index.m3u8
+#EXTINF:-1,Channel i
+http://38.96.178.201/live/ChannelI/index.m3u8
+#EXTINF:-1,Channel S
+http://38.96.178.201/live/ChannelS/index.m3u8
+#EXTINF:-1,Ekhon TV
+http://38.96.178.201/live/EkhonTV/index.m3u8
+#EXTINF:-1,Jamuna TV
+http://38.96.178.201/live/JamunaTV/index.m3u8
