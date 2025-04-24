@@ -5,6 +5,30 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1,Colors TV HD (1)
 http://watchindia.net:8880/live/92046/66518/801.ts
+#EXTINF:-1,Akash AATH
+http://38.96.178.201/live/AkashAath/index.m3u8
+#EXTINF:-1,Star Jalsha HD
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+#EXTINF:-1,Jalsha Movies HD
+http://38.96.178.201/live/JalshaMovies/index.m3u8
+#EXTINF:-1,Zee Action
+http://watchindia.net:8880/live/92046/66518/821.ts
+#EXTINF:-1,Zee Anmol
+http://watchindia.net:8880/live/92046/66518/813.ts
+#EXTINF:-1,Zee Anmol Cinema
+http://watchindia.net:8880/live/92046/66518/820.ts
+#EXTINF:-1,Zee Bollywood
+http://watchindia.net:8880/live/92046/66518/822.ts
+#EXTINF:-1,Zee Cinema HD
+http://watchindia.net:8880/live/92046/66518/787.ts
+#EXTINF:-1,Zee Classic
+http://watchindia.net:8880/live/92046/66518/802.ts
+#EXTINF:-1,Zee News
+http://watchindia.net:8880/live/92046/66518/832.ts
+#EXTINF:-1,Zee TV HD
+http://watchindia.net:8880/live/92046/66518/1970.ts
+#EXTINF:-1,Zee Zest HD
+http://watchindia.net:8880/live/92046/66518/2359.ts
 #EXTINF:-1,PTV news
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1,92 news
@@ -307,24 +331,7 @@ http://watchindia.net:8880/live/92046/66518/792.ts
 http://watchindia.net:8880/live/92046/66518/834.ts
 #EXTINF:-1,WION News
 http://watchindia.net:8880/live/92046/66518/816.ts
-#EXTINF:-1,Zee Action
-http://watchindia.net:8880/live/92046/66518/821.ts
-#EXTINF:-1,Zee Anmol
-http://watchindia.net:8880/live/92046/66518/813.ts
-#EXTINF:-1,Zee Anmol Cinema
-http://watchindia.net:8880/live/92046/66518/820.ts
-#EXTINF:-1,Zee Bollywood
-http://watchindia.net:8880/live/92046/66518/822.ts
-#EXTINF:-1,Zee Cinema HD
-http://watchindia.net:8880/live/92046/66518/787.ts
-#EXTINF:-1,Zee Classic
-http://watchindia.net:8880/live/92046/66518/802.ts
-#EXTINF:-1,Zee News
-http://watchindia.net:8880/live/92046/66518/832.ts
-#EXTINF:-1,Zee TV HD
-http://watchindia.net:8880/live/92046/66518/1970.ts
-#EXTINF:-1,Zee Zest HD
-http://watchindia.net:8880/live/92046/66518/2359.ts
+
 #EXTINF:-1,Zoom
 http://watchindia.net:8880/live/92046/66518/842.ts
 #EXTINF:-1,Sun TV HD
