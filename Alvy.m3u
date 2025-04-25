@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="119" group-title="Akash TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906818123.png",AKASH GO Drama 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://akashxpranto.vercel.app/pranto/bhai/e864851a-be2b
