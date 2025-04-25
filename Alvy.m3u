@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="119" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906818123.png",AKASH GO Drama
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1731/output/index.mpd
-
 #EXTINF:-1 tvg-id="134" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",Deepto TV HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/index.m3u8
 
