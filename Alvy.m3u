@@ -29,8 +29,6 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",Independent TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 tvg-id="77" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1724/output/index.mpd
 
 #EXTINF:-1 tvg-id="99" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
@@ -38,32 +36,6 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png",Somoy TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-id="123" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735554654688.png",STAR GOLD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1729/output/index.mpd
-
-#EXTINF:-1 tvg-id="86" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740372275659.png",Star Jalsha HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1713/output/index.mpd
-
-#EXTINF:-1 tvg-id="82" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735048740482.png",Star Movies HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1725/output/index.mpd
-
-#EXTINF:-1 tvg-id="87" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735043602147.png",Star Sports Select 1 HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1708/output/index.mpd
-
-#EXTINF:-1 tvg-id="89" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045174734.png",Star Sports Select 2 HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1710/output/index.mpd
-
-#EXTINF:-1 tvg-id="90" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735045577141.png",Euro Sports HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1712/output/index.mpd
-
-#EXTINF:-1 tvg-id="81" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740372108298.png",Zee Bangla Cinema
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1728/output/index.mpd
-
-#EXTINF:-1 tvg-id="117" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739907006666.png",Sony Sports TEN 2
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1726/output/index.mpd
-
-#EXTINF:-1 tvg-id="124" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740380280065.png",Sony Entertainment
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1718/output/index.mpd
 
 #EXTINF:-1 tvg-id="131" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740553740665.png",ATN Bangla
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
@@ -73,35 +45,9 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
 
 ------
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://s3.aynaott.com/storage/3e766841707f8a394d34393f7830c9c4", Channel 24
-https://aynaxpranto.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://s3.aynaott.com/storage/001f807e38f94ec504622c0e8358c008", ATN News
-https://aynaxpranto.vercel.app/api/stream/a0a29f90-f7c2-4cc2-b0b4-667253585b84.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-logo="https://s3.aynaott.com/storage/dc5a9964ef9d475ff86f609684e127a2", Independent TV
-https://aynaxpranto.vercel.app/api/stream/22f28ae5-8c15-4904-b9f6-70bbd94cbc43.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://s3.aynaott.com/storage/51a07e1b00483f51e0bd53a30f2c4c13", Boishakhi TV
-https://aynaxpranto.vercel.app/api/stream/92890d5c-473a-454c-ad10-2c6c0c91062a.m3u8
-
-#EXTINF:-1 tvg-id="29" tvg-logo="https://s3.aynaott.com/storage/9e279836b9a059fdbb812eee8bccd4e8", NEXUS TV
-https://aynaxpranto.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3u8
-
-#EXTINF:-1 tvg-id="21" tvg-logo="https://s3.aynaott.com/storage/9da40c7f6b2ad7315ffd3191ce75d0eb", Ekhon TV
-https://aynaxpranto.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
-
-#EXTINF:-1 tvg-id="24" tvg-logo="https://s3.aynaott.com/storage/63df5e0bad98bac21d24e6f3f50d2891", Bangla TV
-https://aynaxpranto.vercel.app/api/stream/addb7014-1d2e-41d8-982d-7cafbdc48770.m3u8
-
-#EXTINF:-1 tvg-id="30" tvg-logo="https://s3.aynaott.com/storage/d0ce1e83699ef39de269d008206195af", Bijoy TV
-https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
-
-#EXTINF:-1 tvg-id="28" tvg-logo="https://s3.aynaott.com/storage/7be5b99c1df304d14cfec95e8d69b0c2", Mohona TV
-https://aynaxpranto.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
-
-#EXTINF:-1 tvg-id="27" tvg-logo="https://s3.aynaott.com/storage/7cf2b06797fbf033a81f5d253fd6adcb", Jamuna TV
-https://aynaxpranto.vercel.app/api/stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa.m3u8
 
 #EXTINF:-1 tvg-id="25" tvg-logo="https://s3.aynaott.com/storage/269524291fc8adec3dc85ae1ab4ca0ad", Ekattor TV
 https://aynaxpranto.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
