@@ -6,23 +6,6 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",Jamuna TV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 tvg-id="115" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png",Sony AATH
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1732//output/index.mpd
-
-#EXTINF:-1 tvg-id="85" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",Al Jazeera
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1707/output/index.mpd
-
-#EXTINF:-1 tvg-id="116" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906861365.png",Sony Sports TEN 5
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1717/output/index.mpd
-
-#EXTINF:-1 tvg-id="78" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735049252557.png",CNN
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1727/output/index.mpd
-
-#EXTINF:-1 tvg-id="118" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906901952.png",Sony Sports TEN 1
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1719/output/index.mpd
-
-#EXTINF:-1 tvg-id="74" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735046738565.png",ZEE BANGLA
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1714/output/index.mpd
 
 #EXTINF:-1 tvg-id="93" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",ATN News
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
@@ -36,11 +19,6 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",Channel 24 HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-id="80" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735050221313.png",Cineplex HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1730/output/index.mpd
-
-#EXTINF:-1 tvg-id="76" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964774807.png",Colors Bangla
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1720/output/index.mpd
 
 #EXTINF:-1 tvg-id="102" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",Ekattor HD
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
